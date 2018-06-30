@@ -20,12 +20,12 @@ Recommend LAN connection
 	всегда свежую базу можно скачать через PS3 - обновить ToolBox в дополнительных возможностях - опции toolbox 
 
 ### History:
-####v0.5 
+#### v0.5 
 	Mod based on 0.5, freeshop and base PSPx.RU
 
 
-####v0.4 
+#### v0.4 
 	Mod based on 0.4
 
-####v0.3 
+#### v0.3 
 	Mod based on 0.3
