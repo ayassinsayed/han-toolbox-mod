@@ -10,8 +10,22 @@ But you still need install act.dat and *.rif to activate game
 Recommend LAN connection
 
 ## Usage:
-	Just install pkg (need debug HAN)
+	Just install pkg (need HAN)
+	For icon update recource
+	You can update base from ps3 - update Toolbox
+	
+## Использование:	
+	Просто установите pkg (нужен HAN)
+	для иконок обновите ресурсу к HAN ToolBox
+	всегда свежую базу можно скачать через PS3 - обновить ToolBox в дополнительных возможностях - опции toolbox 
 
-### Histoty:
-	v0.4 Mod based on 0.4
-	v0.3 Mod based on 0.3
+### History:
+####v0.5 
+	Mod based on 0.5, freeshop and base PSPx.RU
+
+
+####v0.4 
+	Mod based on 0.4
+
+####v0.3 
+	Mod based on 0.3
