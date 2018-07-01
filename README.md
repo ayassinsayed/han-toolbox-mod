@@ -10,8 +10,7 @@ But you still need install act.dat and *.rif to activate game
 Recommend LAN connection
 
 ## Usage:
-	Just install pkg (need HAN)
-	For icon update recource
+	Just install pkg (need HAN). For icon update recource
 	You can update base from ps3 - update Toolbox
 	
 ## Использование:	
