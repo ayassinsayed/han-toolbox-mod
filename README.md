@@ -14,7 +14,7 @@ Recommend LAN connection
 	You can update base from ps3 - update Toolbox
 	
 ## Использование:	
-	Просто установите pkg (нужен HAN), для иконок обновите ресурсы к HAN ToolBox https://www.youtube.com/.
+	Просто установите pkg (нужен HAN), для иконок обновите ресурсы к HAN ToolBox.
 	Всегда свежую базу можно скачать через PS3: обновить ToolBox в "дополнительных возможностях - опции toolbox" 
 
 ### History:
