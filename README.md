@@ -10,11 +10,11 @@ But you still need install act.dat and *.rif to activate game
 Recommend LAN connection
 
 ## Usage:
-	Just install pkg (need HAN). For icon [update recource](https://youtu.be/rFzmMoD4jP4?list=PLZ_8PYCAwNCfePio5cXVHtGwxBjAKCVzE)
+	Just install pkg (need HAN). For icon [update recource](https://www.youtube.com/watch?v=rFzmMoD4jP4&feature=youtu.be&list=PLZ_8PYCAwNCfePio5cXVHtGwxBjAKCVzE)
 	You can update base from ps3 - update Toolbox
 	
 ## Использование:	
-	Просто установите pkg (нужен HAN), [для иконок обновите ресурсы к HAN ToolBox](https://youtu.be/rFzmMoD4jP4?list=PLZ_8PYCAwNCfePio5cXVHtGwxBjAKCVzE).
+	Просто установите pkg (нужен HAN), [для иконок обновите ресурсы к HAN ToolBox](https://www.youtube.com/watch?v=rFzmMoD4jP4&feature=youtu.be&list=PLZ_8PYCAwNCfePio5cXVHtGwxBjAKCVzE).
 	Всегда свежую базу можно скачать через PS3: обновить ToolBox в "дополнительных возможностях - опции toolbox" 
 
 ### History:
