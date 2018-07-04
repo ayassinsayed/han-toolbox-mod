@@ -2,6 +2,7 @@
 **Mod for HAN ToolBox.**
 
 [![Alt-psnstuff](https://i.ytimg.com/vi/uaKZMANCZAQ/1.jpg)](https://youtu.be/uaKZMANCZAQ?list=PLZ_8PYCAwNCfePio5cXVHtGwxBjAKCVzE)
+[![Alt-psnstuff](https://i.ytimg.com/vi/uaKZMANCZAQ/1.jpg)](https://youtu.be/rFzmMoD4jP4?list=PLZ_8PYCAwNCfePio5cXVHtGwxBjAKCVzE)
 
 Allow download game from psnstuff.
 
